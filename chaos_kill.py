@@ -51,7 +51,7 @@ def job():
     print(f"{'-'*40}")
     print(f'Run at: {strftime("%Y-%m-%d %H:%M:%S", gmtime())}')
     print(f"{'-'*40}")
-    victims = getVictim(getPods('default',inputs))
+    victims = getVictim(getPods(namespc,inputs))
     if victims is not None:
         print(f"victims are {victims}")
         for victim in victims:
