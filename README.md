@@ -5,7 +5,7 @@ Requirements<br>
 https://pypi.org/project/kubernetes/<br>
 https://github.com/dbader/schedule#usage<br>
 </P>
-Note: The requirements.txt doesnt seem to be capturing the correct packages. So I have provided the same here.
+<br><br>Note: The requirements.txt doesnt seem to be capturing the correct packages. So I have provided the same here.<br><br>
 
 <P>
 Explanation/Tutorial:<br>
