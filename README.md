@@ -8,3 +8,4 @@ https://github.com/dbader/schedule#usage
 Note: The requirements.txt doesnt seem to be capturing the correct packages. So I have provided the same here.
 
 Explanation/Tutorial:
+https://medium.com/@vishalendu/simplistic-chaos-test-with-python-and-kubernetes-client-6726cfb48a08
